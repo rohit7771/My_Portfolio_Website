@@ -1,0 +1,18 @@
+html{
+    scroll-behavior: smooth;
+}
+
+
+.gotopbtn{
+    position :fixed;
+    height: 50px;
+    width: 50px;
+    background: white;
+    bottom: 20px;
+    right: 20px;
+
+    text-align: center;
+    font-size: xx-large;
+    color: black;
+    text-decoration: none;
+}
