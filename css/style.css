@@ -6,7 +6,9 @@ span{
     background-color: black;
     color: #fbfbfb;
 }
-
+.gotopbtn:hover{
+    color: rgb(63, 60, 60);
+}
 
 .gotopbtn{
     position :fixed;
